@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/4.python/4.python.iml" filepath="$PROJECT_DIR$/4.python/4.python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Package/5.Package.iml" filepath="$PROJECT_DIR$/5.Package/5.Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Data/6.Data.iml" filepath="$PROJECT_DIR$/6.Data/6.Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearAlgebra/LinearAlgebra.iml" filepath="$PROJECT_DIR$/LinearAlgebra/LinearAlgebra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MachineLearning.iml" filepath="$PROJECT_DIR$/MachineLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathAnaly/MathAnaly.iml" filepath="$PROJECT_DIR$/MathAnaly/MathAnaly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probability/Probability.iml" filepath="$PROJECT_DIR$/Probability/Probability.iml" />
+    </modules>
+  </component>
+</project>
